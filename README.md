@@ -439,6 +439,16 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 
 ### Finance
 
+#### Company Formation
+
+-   [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — ready to connect Stripe and Mercury.
+
+    [Pricing](https://llcclass.com/wyoming): Starting at $199 (registered agent + EIN + operating agreement included).
+
+-   [Stripe Atlas](https://stripe.com/atlas) - Delaware C-Corp or LLC formation for founders.
+
+    [Pricing](https://stripe.com/atlas): $500 one-time fee.
+
 #### Payments
 
 -   [Paddle](https://paddle.com/) - payment processor serving as a merchant of record.
